@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/forks_Summary/blob/master/img/1.webp">
+  <img src="https://raw.gitmirror.com/743859910/forks_Summary/master/img/1.webp">
 </p>
 
 <p align="center">
